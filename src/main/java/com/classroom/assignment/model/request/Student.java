@@ -33,8 +33,8 @@ public class Student {
     return gakka;
   }
 
-  public void setName(String name) {
-    this.name = name;
+  public void setGakka(String gakka) {
+    this.gakka = gakka;
   }
 
 }
